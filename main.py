@@ -24,4 +24,4 @@ def get_audio():
             print("Exception:" + str(e))
     return said
 
-speak("hello  my name is")
+speak("hello")
